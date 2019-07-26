@@ -1,0 +1,10 @@
+# common config for API testing
+---
+name: common configuration parameters
+description: common configuration parameters
+variables:
+  protocol: http
+  host: 127.0.0.1
+  port: 5050
+  badchars: "!@#$%^&*()[]\":;"
+  standard_user: "user1"
